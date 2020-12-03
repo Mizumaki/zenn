@@ -1,4 +1,5 @@
-# Zenn Contents
+# Zenn
 
-* [📘 How to use](https://zenn.dev/zenn/articles/zenn-cli-guide)
-* [📘 Markdown guide](https://zenn.dev/zenn/articles/markdown-guide)
+This is the repository for Zenn.
+
+https://zenn.dev/statham
